@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color:green;
+    font-family: monospace;
+}
+
+.links {
+
+    text-align: center;
+
+}
+
+#main-caption {
+    text-align: center;
+    color: red;
+    size: 30px;
+}
+
+.description {
+    color:red;
+    
+}
